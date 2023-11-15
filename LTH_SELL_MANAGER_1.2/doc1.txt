@@ -1,0 +1,11 @@
+<div class="dropdown position-fixed bottom-0 end-0 mb-3 me-3 bd-mode-toggle">
+
+dropdown: Sugiere que este elemento es parte de un componente de menú desplegable.
+
+position-fixed: Indica que el elemento tendrá una posición fija en la ventana del navegador, es decir, permanecerá en la misma ubicación incluso cuando la página se desplace.
+
+bottom-0 y end-0: Establecen la posición del elemento en la parte inferior y en el extremo derecho de su contenedor, respectivamente.
+
+mb-3 y me-3: Añaden márgenes inferiores y derechos al elemento, respectivamente.
+
+bd-mode-toggle: Podría ser específico de la implementación y probablemente esté relacionado con cambiar modos o temas (como cambiar entre modos claro y oscuro)
